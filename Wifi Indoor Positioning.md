@@ -42,6 +42,8 @@ For example:
 LaTex:
 
 	d=10^{\Big(\dfrac{P_0-F_m-P_r-10n \log_{10}(f) + 30n - 32.44}{10n}\Big)}
+	
+	![](hello/CodeCogsEqn.gif)
 
 Where
 
