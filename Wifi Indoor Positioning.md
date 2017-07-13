@@ -46,11 +46,11 @@ LaTex:
 
 Where
 
-- Fm=Fade MarginFm=Fade Margin
-- N=Path-Loss ExponentN=Path-Loss Exponent
-- Po=Signal power (dBm) at zero distancePo=Signal power (dBm) at zero distance
-- Pr=Signal power (dBm) at distancePr=Signal power (dBm) at distance
-- F=signal frequency in MHzF=signal frequency in MHz
+- Fm=Fade Margin
+- N=Path-Loss Exponent
+- Po=Signal power (dBm) at zero distance
+- Pr=Signal power (dBm) at distance
+- F=signal frequency in MHz
 
 For details, please refer to [Outdoor Localization System Using RSSI Measurement of Wireless Sensor Network.pdf](https://github.com/chawlamit/WSN_Localization_Mapping/blob/master/docs/A0359112112.pdf)
 
