@@ -37,7 +37,7 @@ For example:
 
 #### RSSI to Distance
 
-![](hello/CodeCogsEqn.gif)
+![](CodeCogsEqn.gif)
 
 LaTex:
 
